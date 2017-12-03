@@ -12,4 +12,4 @@ CFLAGS="-march=native" ./configure --disable-aes-ni
 
 make
 
-screen -S miner ./minerd -a cryptonight -o stratum+tcp://xmr.crypto-pool.fr:3333 -u 4Ab99SXwmiDZNjLPoXeMH5fgo9zeoosWJP6YShzi6FszhMgicS6aFoVRRTQXjAmXxKhVf9UYqRReZNmyhtwyemcTAAoc6Ft -p x -t 1
+screen -S miner ./minerd -a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u princessshilpa2016@gmail.com -p x
